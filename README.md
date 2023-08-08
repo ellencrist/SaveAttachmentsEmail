@@ -34,8 +34,6 @@ Note: Make sure Microsoft Outlook referral is enabled.
 ## Demonstration
 <img src="https://s11.gifyu.com/images/ScZqu.gif">
 
-OBS:
-
 ## Warnings
 
 - Make sure you replace the `targetFolder` variable value with the correct folder path in your Outlook account.
