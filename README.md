@@ -3,7 +3,9 @@
 This VBA script is designed to extract attachments from emails in a specific folder in your Outlook account. It cycles through the emails in the selected account's incoming folder, checks if they contain attachments, and if the sender's email address matches the specified address, saves the attachments to a predefined destination folder.
 
 ## Presets
-Enable the developer tab: File>Options>Customize Ribbon. In the box on the right, select the 'Developer' checkbox
+Enable the developer tab: File>Options>Customize Ribbon. In the box on the right, select the 'Developer' checkbox.
+
+<a href="https://uploaddeimagens.com.br/images/004/570/473/full/Captura_de_tela_2023-08-08_180151.png?1691528548"><img src="https://uploaddeimagens.com.br/images/004/570/473/full/Captura_de_tela_2023-08-08_180151.png?1691528548" height="300px"></a>
 
 ## Usage
 1. Open Microsoft Outlook.
