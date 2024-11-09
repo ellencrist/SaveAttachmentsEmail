@@ -32,7 +32,7 @@ Note: Make sure Microsoft Outlook referral is enabled.
 6. After completing the iteration, displays a message stating how many attachments were saved or if no attachments were found.
 
 ## Demonstration
-<img src="https://s11.gifyu.com/images/ScZqu.gif">
+<img src="https://i.makeagif.com/media/11-09-2024/nPSJxc.gif">
 
 ## Warnings
 
